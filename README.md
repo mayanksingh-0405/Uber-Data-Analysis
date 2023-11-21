@@ -21,9 +21,10 @@ The analysis and visualizations produced in the Jupyter Notebook provide support
 The code is written in a Jupyter Notebook with a Python 2.7 kernel, and in addition it requires the following packages:
 
 * [Numpy](http://numpy.org) (version: 1.11.2)
-* [Pandas ](http://pandas.pydata.org)(version: 0.19.2)
-* [Matplotlib ](http://matplotlib.org)(version: 1.5.3)
+* [Pandas ](http://pandas.pydata.org) (version: 0.19.2)
+* [Matplotlib ](http://matplotlib.org) (version: 1.5.3)
 * [Seaborn](http://seaborn.pydata.org) (version: 0.6.0)
+* [SciPy](https://scipy.org) (version: 1.11.4)
 
 
 
